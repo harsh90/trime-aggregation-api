@@ -62,6 +62,10 @@
 			<artifactId>uber-rides</artifactId>
 			<version>0.8.0</version>
 		</dependency>
+		<dependency>
+		    <groupId>de.codecentric</groupId>
+		    <artifactId>spring-boot-admin-starter-client</artifactId>
+		</dependency>
 
 	</dependencies>
 
